@@ -1,0 +1,4 @@
+# Ignore AMD cache files
+AppData/Local/AMD/**/*.parc
+AppData/Local/AMD/**/*.blb
+AppData/Local/.certifi/cacert.pem
