@@ -2,3 +2,8 @@
 AppData/Local/AMD/**/*.parc
 AppData/Local/AMD/**/*.blb
 AppData/Local/.certifi/cacert.pem
+# Ignore system and cache files
+AppData/
+*.blb
+*.pem
+*.parc
